@@ -1,0 +1,8 @@
+dexplot
+joblib==1.1.0
+watermark
+top2vec
+snscrape
+pandas
+seaborn
+matplotlib
